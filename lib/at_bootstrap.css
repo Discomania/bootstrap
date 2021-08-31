@@ -141,12 +141,12 @@ button.at-social-btn#at-github:hover {
 #at-btn {
   font-size: 16px;
   padding: 10px 12px;
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 .at-signup-link {
   margin-top: 20px;
   margin-bottom: 30px;
-  text-align: center;
+  /* text-align: center; */
 }
 .at-terms-link {
   text-align: center;
